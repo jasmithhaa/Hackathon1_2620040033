@@ -13,15 +13,21 @@ Use appropriate Java data types for each value and display all the details.
 SAMPLE OUTPUT
 Enter vehicle number:
 101
+
 Enter waste collected in kg:
 125.5
+
 Enter number of collection points:
 8
+
 Enter vehicle status:
 A
 Vehicle Number: 101
+
 Waste Collected: 125.5 kg
+
 Number of Collection Points: 8
+
 Vehicle Status: A
 
 3b) If-Else Condition:
@@ -34,12 +40,17 @@ Use an if-else statement.
 
 SAMPLE OUTPUT
 If the waste collected is greater than 100, the output is:
+
 Enter waste collected in kg:
 120
+
 Collection target archived
+
 If the waste collected is less than 100, the output is:
+
 Enter waste collected in kg:
 80
+
 More waste collection required
 
 3c) Methods:
@@ -54,6 +65,8 @@ The method should return the total waste collected. Read the waste collected at 
 SAMPLE OUTPUT
 Enter waste collected at point1:
 50.5
+
 Enter waste collected at point2:
 75.5
+
 Total waste collected: 126.0 kg
