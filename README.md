@@ -1,5 +1,6 @@
 # Hackathon1_2620040033
 Question 3: Municipal Waste Collection Optimizer
+
 3a) Data Types:
 
 Write a Java program to store and display the following details of a waste collection vehicle:
@@ -11,6 +12,7 @@ Vehicle status – character
 Use appropriate Java data types for each value and display all the details.
 
 SAMPLE OUTPUT
+
 Enter vehicle number:
 101
 
@@ -39,6 +41,7 @@ Otherwise, display "More Waste Collection Required".
 Use an if-else statement.
 
 SAMPLE OUTPUT
+
 If the waste collected is greater than 100, the output is:
 
 Enter waste collected in kg:
@@ -63,6 +66,7 @@ calculateTotalWaste(double point1Waste, double point2Waste)
 The method should return the total waste collected. Read the waste collected at the two collection points from the user, call the method, and display the total waste collected.
 
 SAMPLE OUTPUT
+
 Enter waste collected at point1:
 50.5
 
