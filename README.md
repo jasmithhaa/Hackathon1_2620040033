@@ -96,6 +96,8 @@ Use separate methods for each calculation and display monetary values with two d
 
 SAMPLE OUTPUT 
 
+Enter Movie Name: Wednesday
+
 Ticket Price: Rs400.0
 
 Number of Tickets: 5
