@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class MovieTicket{
+ class Hackathon2{
     String movieName;
     double ticketPrice;
     int numberOfTickets;
